@@ -3,6 +3,9 @@
 ## 簡介
 Stock Income Assistant 是個簡單的股票計算機，僅能用來計算單一股票期望獲益的價位，以此為代價換來的是輕便的超小型應用程式介面。
 
+## 更完整的計算內容
+見我的 [Stock Assistant](https://github.com/tsai1247/Stock-Assistant)。
+
 ## 使用說明
 ![](https://i.imgur.com/imc6Kpz.png)
 * 紅底為輸入，綠底為輸出，白底為參數
